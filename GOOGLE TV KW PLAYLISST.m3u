@@ -10,6 +10,12 @@ Source :
 •kitkattv
 •etc
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6VxUNaIVfGpkH0XAkWuWULJNw5A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4028022/33d26d.jpg" GROUP-TITLE="EVENT | BRI LIGA 1",[15.30 26/1/25] PSS Sleman vs Semen Padang - Liga 1  [ Vidio ]
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/vinteoRvOWUScsp3dNuHEX/play.php?id=17622&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#https://dusk.biz.id/vinteoRvOWUScsp3dNuHEX/play.mpd?id=17622&type=dash
+
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> INDONESIA TV <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
